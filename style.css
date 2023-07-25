@@ -31,5 +31,10 @@ section {
 
 .song h1 {
     font-size: 40px;
+    color:rgb(75, 75, 125);
+ }
 
-}
+ .song h2 {
+    font-size: 30px;
+    color: rgb(75, 75, 125);
+ }
