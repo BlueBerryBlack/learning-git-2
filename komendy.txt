@@ -1,0 +1,32 @@
+
+pogro@Jagoda MINGW64 /c/projects/learning-git-2 (master)
+$ npx html-validate index.html
+
+C:\projects\learning-git-2\index.html
+   6:110  error  Trailing whitespace               no-trailing-whitespace
+   7:106  error  Trailing whitespace               no-trailing-whitespace
+  17:77   error  End tag for <br> must be omitted  void-content
+  18:70   error  End tag for <br> must be omitted  void-content
+  19:65   error  End tag for <br> must be omitted  void-content
+  22:75   error  End tag for <br> must be omitted  void-content
+  23:70   error  End tag for <br> must be omitted  void-content
+  24:73   error  End tag for <br> must be omitted  void-content
+  25:71   error  Trailing whitespace               no-trailing-whitespace
+  27:73   error  End tag for <br> must be omitted  void-content
+  28:73   error  End tag for <br> must be omitted  void-content
+  29:70   error  End tag for <br> must be omitted  void-content
+  30:65   error  End tag for <br> must be omitted  void-content
+  32:69   error  End tag for <br> must be omitted  void-content
+  33:79   error  End tag for <br> must be omitted  void-content
+  34:69   error  End tag for <br> must be omitted  void-content
+  35:75   error  End tag for <br> must be omitted  void-content
+  38:75   error  End tag for <br> must be omitted  void-content
+  39:68   error  End tag for <br> must be omitted  void-content
+  40:75   error  End tag for <br> must be omitted  void-content
+
+✖ 20 problems (20 errors, 0 warnings)
+
+More information:
+  https://html-validate.org/rules/no-trailing-whitespace.html
+  https://html-validate.org/rules/void-content.html
+
